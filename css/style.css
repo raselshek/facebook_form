@@ -1,0 +1,166 @@
+body{
+	margin:0;
+	padding: 0;
+}
+#email {
+}
+
+#password {
+}
+
+.header {
+	background-color:#395795;
+	width: 100%;
+	min-height: 100px;
+	overflow: hidden;
+}
+
+.container {
+	/*border:1px solid black;*/
+	width:80%;
+	overflow: hidden;
+	margin: 33px auto 0px;
+
+}
+
+.logo {
+	/*border:1px solid black;*/
+	width: 20%;
+	float:left;
+	margin-left: 78px;
+}
+.logo h1{
+	/*font-family: 'Roboto', sans-serif;*/
+	margin: 0;
+	color:white;
+	font-size: 40px;
+}
+.menu {
+	/*border:1px solid black;*/
+	width: 40%;
+	float:right;
+
+}
+
+.email {
+	/*border:1px solid black;*/
+	width: 170px;
+	float:left;
+	margin-right:20px;
+
+
+}
+label{
+	    color: white;
+}
+
+.password {
+	/*border:1px solid black;*/
+	width: 170px;
+	float:left;
+	margin-right:20px;
+
+}
+.login button{
+	background-color:#4065AE;
+	border:none;
+	border:1px solid gray;
+	margin-top: 20px;
+	color:white;
+}
+.menu p{
+	margin: 0px 0px 0px 192px;
+	color:white;
+	font-size: 13px;
+}
+/*-------- secton start-----------*/
+.container2{
+	margin:0 auto;
+	width:70%;
+	overflow: hidden;
+	/*border:1px solid black;*/
+	margin-top:20px;
+}
+/*-------- banner end --------*/
+.banner{
+	width: 48%;
+	/*border:1px solid black;*/
+	float:left;
+}
+.banner img{
+	width:100%;
+}
+.banner p{
+	font-size: 20px;
+	width: 75%;
+}
+/*--------- banner end --------*/
+/*----------- form start -----------*/
+.form{
+	min-height: 251px;
+	width: 40%;
+	/*border:1px solid black;*/
+	float:right;
+}
+.first_name{
+	float:left;
+	margin: 0px 10px 5px 0px;
+}
+input#first_name {
+    padding: 5px;
+}
+.surname{
+	float:left;
+
+}
+input#Surname {
+    padding: 5px;
+}
+.number{
+	width:90%;
+	margin: 5px 0;
+}
+input#number {
+    padding: 5px;
+}
+.password2{
+	width: 90%;
+}
+input.password2 {
+    padding: 5px;
+}
+.daycomnt{
+	width:30%;
+	float:right;
+	/*border:1px solid black;*/
+	margin: -8px 100px 2px 0px;
+}
+.birthday{
+	overflow: hidden;
+	/*border:1px solid black;*/
+}
+select {
+    padding: 5px;
+}
+.birthday p{
+	font-size: 10px;
+}
+input#gender {
+    margin-top: 20px;
+}
+.cooking{
+	width:61%;
+	/*border:1px solid black;*/
+	height: 60px;
+
+}
+.signup button{
+	background-color: #519450;
+	width: 162px;
+    height: 35px;
+}
+.signup p{
+	font-size: 13px
+}
+/*--------------- form end ----------*/
+/*-------------- section end  -----*/
